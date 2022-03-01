@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Reginald Tucker, defendant at the prosecution of William Hall, Esq., counsellor at law, but in the name of His Majesty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08641</idno>
+            <idno type="STC">Wing C967A</idno>
+            <idno type="STC">ESTC R173545</idno>
+            <idno type="EEBO-CITATION">61296896</idno>
+            <idno type="OCLC">ocm 61296896</idno>
+            <idno type="VID">180482</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08641)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180482)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Reginald Tucker, defendant at the prosecution of William Hall, Esq., counsellor at law, but in the name of His Majesty.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>"Reginald Tucker's case : to be heard at the Bar of the House of Lords, on Monday the 21st of January 1694/5" -- verso.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tucker, Reginald, fl. 1694 --  Trials, litigation, etc.</term>
+               <term>Hall, William --  Trials, litigation, etc.</term>
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:180482:1" rendition="simple:additions"/>
+            <head>The Caſe of Reginald Tucker, Defendant, At the Proſecution of <hi>William Hall</hi> Eſq; Counſellor at Law, but in the Name of his Majeſty.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1685"/>
+               <hi>REGINALD T<g ref="char:V">Ʋ</g>CKER</hi> being charged with High Treaſon, for being with the late Duke of <hi>Monmouth</hi> in the Weſt; one Sir <hi>Theo<g ref="char:EOLhyphen"/>philus Oglethorp,</hi> before he was Convicted, obtained from the late King <hi>James</hi> a private Grant of all his Eſtate, Real and Per<g ref="char:EOLhyphen"/>ſonal, which might occaſion the Proſecution againſt his Life to be the more Violent.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Octob. 1685."/> The Defendant abſconding himſelf in the County of <hi>Somerſet,</hi> ſent up his Wife to <hi>London,</hi> to ſolicit for his Pardon before he was taken: But one <hi>Vaughan</hi> by contrivance, inſinuating himſelf into her Company, perſwaded her to marry him; which he told her ſhe might lawfully do, tho her Husband was ſtill alive, in regard he being guilty of High Treaſon, was a dead Perſon in Law: And this Defen<g ref="char:EOLhyphen"/>dant's Wife being prevailed on, by the Artifices of <hi>Vaughan</hi> and his Confederates, was actually married to the ſaid <hi>Vaughan;</hi> by which means the Defendant was diſappointed of getting his Pardon, and ſhe died in great Contrition.</p>
+            <p>Mr. <hi>Hall</hi> knowing this Defendant to be charged in K. <hi>James</hi>'s Proclamation with High Treaſon, contriv'd how to get his Eſtate; and in order thereunto firſt procur'd the Aſſignment of a Mortgage on part of this Defendant's Eſtate.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Aug. 1686."/> The Defendant coming up to <hi>London</hi> in order to go for <hi>Holland,</hi> was taken and carried to <hi>Newgate:</hi> Mr. <hi>Hall</hi> having notice of it, came to him, which was the firſt time this Defendant ever ſaw him, and pretended to get this Defendant's Pardon, but intended rather to get his Eſtate; and in order thereunto, ſoon after procured the Aſſignment of another Mortgage, that was on another Part of this Defendant's Eſtate, the better to ſcrew himſelf by degrees into the Whole.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21 March, 1686."/> This Defendant having been ſome time before removed from <hi>Newgate</hi> to <hi>Wells</hi> in <hi>Somerſetſhire,</hi> was there tried for High Treaſon, and condem<g ref="char:EOLhyphen"/>ned to die.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="July 1688."/> Mr. <hi>Hall</hi> taking Advantage of the miſerable Condition of this Defendant, having gotten hold of Part, and deſigning to ſwallow up the reſt of his Eſtate, came from <hi>London</hi> with one <hi>John Barnard</hi> an Attorney, to the Defendant then in <hi>Somerſetſhire,</hi> and mightily preſſed him to releaſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Claim to his Eſtate, promiſing him a great Place at <hi>Whitehall.</hi> But this Defendant's Eſtate being lawfully deſcended to him from his Ance<g ref="char:EOLhyphen"/>ſtors, and having Children of his own, he refuſed to comply, and begg'd Mr. <hi>Hall</hi> not to meddle with his Eſtate, telling him, he was reſolv'd never to part with his Right, thô to ſave his Life. And this Defendant told him further, that if he ſhould get it in this manner, it would never proſper with him: Upon which Mr. <hi>Hall</hi> was angry, and threatned it ſhould fare the worſe with this Defendant. And thô the Defendant had declared he would not part with his Right, yet Mr. <hi>Hall</hi> went on with his Deſign, and gave Sir <hi>Theophilus</hi> about 600 <abbr>
+                  <hi>l.</hi>
+               </abbr> for this Defendant's Eſtate, which was really worth above 6000 <abbr>
+                  <hi>l.</hi>
+               </abbr> including the two Mortgages.</p>
+            <p>According to the ſaid Threats, it did fare the worſe with this Defendant; for thereupon Sir <hi>Theophilus</hi> wrote a Letter to the Defendant, ac<g ref="char:EOLhyphen"/>quainting him, that if he did not confirm Mr. <hi>Hall</hi>'s Purchaſe, he ſhould certainly be hang'd And <hi>William Penn</hi> who procured this Defendant's Reprieve during Pleaſure, wrote another Letter to him, that if he did not comply with Mr. <hi>Hall,</hi> it was ſuppoſed King <hi>James</hi> would be prevailed on to give order for his Execution, Mr. <hi>Hall</hi> intending to fright this Defendant, either out of his Life or Eſtate: But the Defendant, notwith<g ref="char:EOLhyphen"/>ſtanding he was kept by Mr. <hi>Hall</hi>'s Contrivance under the continual Apprehenſions of Death to terrify him into a Compliance, ſtill refuſed to part with his Eſtate: Whereupon he was kept cloſer Priſoner than before, and endured greater Hardſhips than ever; and remained under thoſe Severities and frequent Menaces of being hang'd, till his preſent Majeſty landed in the Weſt, at which time he was delivered out of Goal.</p>
+            <p>During all this time the Defendant and his Family were under the utmoſt extremity of Want: Mr. <hi>Hall</hi> who all along received the Profits of the Defendant's Eſtate, thô often applied to, yet could not be prevail'd upon to contribute one Farthing towards their Relief, inſomuch that his poor Children muſt have been ſtarved, had they not been maintained, as they were, by the Alms of the Pariſh of <hi>Long-Sutton,</hi> where part of the Defendant's Eſtate lay.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1689"/> The Defendant being adviſed to bring a Writ of Error to reverſe his Attainder as the moſt proper Remedy, in order thereunto he di<g ref="char:EOLhyphen"/>ligently ſearched for the Record of his Attainder in the Crown-Office, that he might get a Copy thereof; but the ſame was not then filed up<g ref="char:EOLhyphen"/>on Record in the Court as it ought to have been, but was kept privately in Mr. <hi>Hall</hi>'s Cuſtody. At laſt it was brought into the Office, and filed in <hi>June</hi> 1689, and not before, which was between two and three Years after the Conviction, which this Defendant is adviſed to be a ve<g ref="char:EOLhyphen"/>ry foul practice. Having at laſt procured a Copy of the Record, he was adviſed by his Counſel, there were above twenty manifeſt Errors there<g ref="char:EOLhyphen"/>in; one of which was, that the Judgment was not awarded in the Form the Law directs in Caſes of High Treaſon, for the <hi>cutting off the Privy Members</hi> was omitted. Another Error was, that the Indictment did not conclude as it ought by Law, theſe words, <hi>againſt the Duty of his All<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>giance,</hi> being omitted; beſides ſeveral other manifeſt Errors, too long to be here inſerted.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1690"/> The Defendant proſecuted a Writ of Error, in order to reverſe the ſaid Attainder; which was directed to the Judges of the <hi>Kings-Bench</hi> but he at that time being in a very low Condition, and having been too ſenſible of the Strength of his Adverſaries, durſt not ſtir in it till <hi>Mi<g ref="char:EOLhyphen"/>chelmas</hi> Term 1692.
+<milestone type="tcpmilestone" unit="unspecified" n="1692"/> And then being encouraged by the promiſed Aſſiſtance of ſome Friends, he reſolved to proceed; and in <hi>Hilary</hi> Term 1692, ſeveral of the ſaid Errors were argued by his Counſel at the Kings-Bench Bar:
+<milestone type="tcpmilestone" unit="unspecified" n="1693"/> And the next Term after <hi>(viz.)</hi> in <hi>Eaſter</hi> Term 1693. the whole Court was of Opinion the Attainder ought to be reverſed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1694"/> But the next Day Mr. <hi>Hall</hi> moved the Court to have the ſame argued again: Upon which the Errors in the ſaid Record were again argued by Counſel on both ſides, for four Terms more ſucceſſively, that the Matter might be the more throughly conſidered; and in <hi>Eaſter</hi> Term 1694, all the four Judges of that Court, after a long examination of ſeveral Records and Precedents, and after mature deliberation, gave their ſolemn Opi<g ref="char:EOLhyphen"/>nions in Court, one after another, <hi>ſeriatim,</hi> that the Attainder ſhould be reverſed, and that the Defendant ſhould be reſtored to all that he had loſt thereby; and each of the Judges gave ſeverally the Reaſons of their Opinion in open Court.</p>
+            <p>It is alledged, that the Defendant made a Mortgage of part of his Eſtate by the Name of Son and Heir, he being but the younger Son. To which 'tis anſwered, his Father ſettled the Eſtate on the Defendant and his Heirs for ever; and the Defendant kept his elder Brother many Years at his Dwellings in <hi>London</hi> and in the Country, who died a Lunatick and a Batchelor before the Defendant's Conviction.</p>
+            <p>It is pretended by Mr. <hi>Hall,</hi> that he purchaſed the King's Title for a valuable Conſideration, and thereby preſerved his Mortgages, and alſo ſecured the Defendant's Life. To this it may be anſwered, that he purchaſed a defeazable Title, and muſt run the ſame Hazard as the Purchaſer of a mortgaged Eſtate does; for by the Reverſal of the Attainder, the King's Title fails as much as the Purchaſer's does in the other Caſe by the Entry of the Mortgagee: Then the Conſideration cannot in ſtrictneſs of Reaſon be ſaid to be valuable, it being but 600 <abbr>
+                  <hi>l.</hi>
+               </abbr> for an Intereſt worth 6000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and the Reaſon why Mr. <hi>Hall</hi> gave ſo ſmall a Conſideration for it, was, becauſe of the Hazard he was to run in caſe the Attainder ſhould be reverſed, in regard the Defendant could not be perſwaded to releaſe his Claim.</p>
+            <p>Then the Mortgagees were never in danger by the King's Title; for the Lands, whether in the Hands of the King or Subject, muſt ſtill be lia<g ref="char:EOLhyphen"/>ble to the Mortgages, which were made precedent to the Attainder: and then how he ſaved the Defendant's Life, will appear from the Caſe above.</p>
+            <p>The Defendant finding an Inquiſition of his Eſtate returned into the Exchequer, hath ſince ſued out the <hi>amoveas Manus;</hi> ſo that now his Eſtate is out of the King's Hands.</p>
+            <p>The Defendant humbly prays your Lordſhips to affirm the Reverſal of his Attainder, as well for the ſake of Juſtice and Right, as in compaſſion to his Six poor Children.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:180482:2"/>
+            <p>
+               <hi>Reginald Tucker</hi>'s CASE: To be heard at the Bar of the Houſe of Lords, on Monday the 21ſt of <hi>January,</hi> 1694/5.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
